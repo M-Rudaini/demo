@@ -1,1 +1,2 @@
-<h1>Welcome to our Demo App</h1>
+
+<h1 style="color: red">Welcome to our Demo App</h1>
